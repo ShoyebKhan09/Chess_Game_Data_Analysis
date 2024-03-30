@@ -8,7 +8,9 @@ The Devlopment of this project has many stages, which I would like to summarize 
 3. Although , having a dataset of project statuses is not readily available, for simplicity purposes we can assume the chess moves sequences as project statuses. Each sequence of moves or statuses
    will lead to a check mate or not ( in project management terms Red or Green)
 5. Exploratory Analysis was performed to understand different moves leading to a successful check-mates (either by white or black).
-6. RL agent is developed (inspired from the RL package created to replicate the BCG success sequence in the BCG's Growth Share Matrix) and was trained on the dataset of sequence of moves.
+6. RL agent is developed (inspired from the RL package created to replicate the BCG success sequence in the BCG's Growth Share Matrix , a short demo shown below) and was trained on the dataset of sequence 
+   of moves.
 7. I will publish a short paper describing this methodology (hopefully and shortly)
 
 ![](https://github.com/ShoyebKhan09/Chess_Game_Data_Analysis/blob/main/chess_game_RL_01.gif)
+![]()
