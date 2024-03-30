@@ -13,4 +13,6 @@ The Devlopment of this project has many stages, which I would like to summarize 
 7. I will publish a short paper describing this methodology (hopefully and shortly)
 
 ![](https://github.com/ShoyebKhan09/Chess_Game_Data_Analysis/blob/main/chess_game_RL_01.gif)
-![]()
+![](https://github.com/ShoyebKhan09/Chess_Game_Data_Analysis/blob/main/reinforcement_learnings3.gif)
+![](https://github.com/ShoyebKhan09/Chess_Game_Data_Analysis/blob/main/reinforcement_learnings2.gif)
+![](https://github.com/ShoyebKhan09/Chess_Game_Data_Analysis/blob/main/reinforcement_learnings4.gif)
